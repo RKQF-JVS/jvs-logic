@@ -56,7 +56,8 @@
 
 ### 技术交流与商务支持
 
-![输入图片说明](img/1030.png)
+
+![群二维码](https://github.com/RKQF-JVS/jvs-logic/assets/94048608/e3c50bf8-6be3-4106-8264-c0da9e6e5f0a)
 
 如因人数限制无法加群时，可加运营同学拉入技术交流群
 
