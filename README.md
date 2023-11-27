@@ -57,7 +57,8 @@
 ### 技术交流与商务支持
 
 
-![群二维码](https://github.com/RKQF-JVS/jvs-logic/assets/94048608/15644463-5cb0-4caa-9670-e63cc46292bd)
+![群二维码](https://github.com/RKQF-JVS/jvs-logic/assets/94048608/c80d5b0e-173d-4e71-b41d-dcb59a26e33e)
+
 
 
 
