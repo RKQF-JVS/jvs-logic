@@ -43,6 +43,7 @@
 - 规则引擎：http://rules.bctools.cn/
 - 逻辑引擎：http://logic.bctools.cn/
 - 视频会议：http://meeting.bctools.cn/
+- APS（智能排产）：https://aps.bctools.cn/
 
 普通用户端：体验者自有微信扫码登录
 管理端(全网共享)：testadmin 123456
@@ -57,7 +58,8 @@
 ### 技术交流与商务支持
 
 
-![群二维码](https://github.com/RKQF-JVS/jvs-logic/assets/94048608/f08906c0-93c8-4b8a-803c-7e55acbd555b)
+![微信图片_20250211100806](https://github.com/user-attachments/assets/823f65b9-0fad-4393-b026-5e76810663b9)
+
 
 
 
