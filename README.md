@@ -58,7 +58,8 @@
 ### 技术交流与商务支持
 
 
-![微信图片_20250220101551](https://github.com/user-attachments/assets/719cc912-8675-4b81-aee5-eff3841c1de6)
+![小微信图片_20250227142830](https://github.com/user-attachments/assets/3d4b6ccf-da2e-480e-8d5d-a6144e45beb0)
+
 
 
 
@@ -67,5 +68,6 @@
 
 如因人数限制无法加群时，可加运营同学拉入技术交流群
 
-![输入图片说明](https://foruda.gitee.com/images/1693376631879434922/54ec140e_10006021.png "屏幕截图")
+![谭京](https://github.com/user-attachments/assets/7be12016-715f-494e-ab81-7b854e397888)
+
 
