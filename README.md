@@ -58,7 +58,8 @@
 ### 技术交流与商务支持
 
 
-![小微信图片_20250327142206](https://github.com/user-attachments/assets/e8e55288-b3e0-4c8d-a905-18a87f4dd75e)
+![微信图片_20250408090129](https://github.com/user-attachments/assets/a2f0942a-f6b4-4761-a31f-53f94399c01e)
+
 
 
 
