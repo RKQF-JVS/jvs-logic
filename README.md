@@ -1,4 +1,4 @@
-# jvs-logic逻辑引擎
+<img width="235" height="359" alt="微信图片_20250924104037_78_235" src="https://github.com/user-attachments/assets/9aef81c2-c83c-428e-bb28-2d851f70cd8c" /># jvs-logic逻辑引擎
 
 #### 基础介绍
 我们再做日常开发过程中，把通用的业务逻辑通过高级语言写出来后，需要把代码编译为可执行的程序，并发布出来，然后普通用户才能使用。当业务需求不常变化的情况下 还好，但是一旦业务需求经常变化，那么整个过程就变得相当麻烦的执行：
@@ -57,7 +57,7 @@
 
 ### 技术交流与商务支持
 
-<img width="243" height="373" alt="微信图片_20250917115013_65_235" src="https://github.com/user-attachments/assets/fbdc2a23-f936-47ed-b19e-aab2f530041a" />
+<img width="235" height="359" alt="微信图片_20250924104037_78_235" src="https://github.com/user-attachments/assets/2875a82b-9513-41a7-9cdd-d3a5df105016" />
 
 
 
